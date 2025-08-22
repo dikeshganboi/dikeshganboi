@@ -6,7 +6,6 @@
 ## 🌱 About Me
 - 🎓 Final-Year **IT Student**  
 - 🔍 Interested in **Full Stack Development & Problem Solving**
-- 📚 Preparing for **Campus Placements & GATE**
 - ⚡ Fun fact: *I love turning real-world problems into working solutions*
 
 ---
