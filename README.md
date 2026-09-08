@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Dikesh 👋</h1>
 <h3 align="center">Final-year IT student who likes figuring things out — code, data, or a system that's misbehaving</h3>
-
 <br>
 
 ## About Me
@@ -16,15 +15,15 @@ I'm still figuring out exactly where I want to specialize, so this profile is a 
 
 ## What I've Been Working With
 
-`JavaScript` · `Java` · `Python` · `PHP` · `SQL` · `React` · `Node.js` · `MySQL` · `MongoDB` · `Git`
+`JavaScript` · `Java` · `Python` · `SQL` · `React` · `Node.js` · `MySQL` · `MongoDB` · `Git`
 
 ## A Few Projects
 
-- **[Project Name](#)** — short, honest description of what it does and why you built it
-- **[Project Name](#)** — same here
-- **[Project Name](#)** — same here
+- **[PD Updates](https://www.pdupdates.app/)** — a full-stack blog platform tracking user activity and content across the stack, deployed on Vercel/Render with MongoDB Atlas
+- **[Multilingual Speech/Text to ISL Converter](https://sanket-bhasha-isl.onrender.com/)** — processes speech/text across languages to generate sign-language output; the research behind it got published at IEEE PUNECON 2025
+- **Bakery Management System** — a multi-branch inventory and sales (POS) system built to help bakery managers make decisions on stock levels across locations
 
 ## Get in Touch
 
-📧 dikeshsahu.it36@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/dikeshsahu)
+📧 dikeshganboi@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/dikeshganboi)
