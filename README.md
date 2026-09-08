@@ -15,7 +15,7 @@ I'm still figuring out exactly where I want to specialize, so this profile is a 
 
 ## What I've Been Working With
 
-`JavaScript` · `Java` · `Python` · `SQL` · `React` · `Node.js` · `MySQL` · `MongoDB` · `Git`
+`JavaScript` · `Java` · `Python` · `SQL` · `React` · `Node.js` · `MySQL` · `MongoDB` · `Git` `Ms Excel` · `Power BI`
 
 ## A Few Projects
 
